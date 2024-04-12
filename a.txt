@@ -1,7 +1,0 @@
-npm init -y
-npm i -D typescript
-npm i -D @types/node
-npx tsc --init
-npm i fastify
-npx tsc file
-npm i -D eslint @rocketseat/eslint-config
